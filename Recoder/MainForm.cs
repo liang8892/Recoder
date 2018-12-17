@@ -29,5 +29,12 @@ namespace Recoder
         {
 
         }
+
+
+        private void AddRecord()
+        {
+            
+        }
+
     }
 }
