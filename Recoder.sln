@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recoder", "Recoder\Recoder.csproj", "{AF605818-62EF-4197-8750-542A0BBDF9E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{AB0A89EC-B55A-41ED-A301-665260522471}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AF605818-62EF-4197-8750-542A0BBDF9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF605818-62EF-4197-8750-542A0BBDF9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF605818-62EF-4197-8750-542A0BBDF9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0A89EC-B55A-41ED-A301-665260522471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0A89EC-B55A-41ED-A301-665260522471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0A89EC-B55A-41ED-A301-665260522471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0A89EC-B55A-41ED-A301-665260522471}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
